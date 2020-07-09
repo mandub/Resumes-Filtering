@@ -1,0 +1,33 @@
+.block-stlye {
+    
+    
+    background-color: #F2F2F2;
+    color: #4F4F4F;
+    border-radius: 20px; 
+   
+    
+    
+}
+
+
+.input-style {
+    
+        background-color: #C8C8C8;
+        color: #4F4F4F;
+        height: 20px; 
+        
+    
+}
+
+.header-style {
+    
+        width:100%;
+        color: #4F4F4F;
+        display: inline-flex; 
+        justify-content: space-between; 
+        margin: 0px 0px 10px 0px; 
+        padding: 10px 10px 10px 10px;
+     
+        
+    
+}
